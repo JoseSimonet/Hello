@@ -15,9 +15,9 @@ public class Años {
 			System.out.println("Por favor introduzca el año actual: ");
 			AñoAct = teclado.nextInt();
 			double edad;
-			//Esto es un comentario para el ejercicio de evagd...
+			//Esto es un comentario para el ejercicio de evagd (:
 			edad = (AñoAct-AñoNac);
-			
+			//Y este hecho por JoséM
 			System.out.println("Su edad es: " +edad);
 		}
 }
